@@ -1,6 +1,6 @@
 # The-Moroccan-News-Corpus
 
-The present corpus was part of a summer internship. We use scrapy spiders/crawlers module to crawl the Moroccan newspaper websites and save all the scraped data to either json or text files. The built spiders/crawlers for the following news websites:
+The present corpus was part of a summer internship. We use scrapy spiders/crawlers to crawl the Moroccan newspaper websites and save all the scraped data to either json or txt files. We built spiders/crawlers for the following news websites:
 <h3>Moroccan News websites</h3>
 <li>http://ahdath.info/</li>
 <li>https://www.akhbarona.com/</li>
