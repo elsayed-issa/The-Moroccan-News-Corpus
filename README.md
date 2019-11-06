@@ -33,4 +33,5 @@ To scrape any data from any of the newspapers above,<br>
 <li>Invoke the following command to start scrabing the website: <code> scrapy crawl < name of the spider > -o < name of the file >.json</code></li>
 
 <h3>Note</h3>
-Every spider/crawler automatically saves a text file in addition to either json files or xml files that you determine when you run your spider in the command line.
+Every spider/crawler automatically saves a text file in addition to either json files or xml files that you determine when you run your spider in the command line.<br>
+This is the link to download about 2 gigabytes of texts. https://drive.google.com/open?id=1w2-DTJF2phU3fVf4XkDh1tsN-O3N_baF
